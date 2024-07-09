@@ -7,6 +7,7 @@ const App = () => {
         <h1 className=' text-2xl'>InshaAllah, I will come back with my best version</h1>
         <p>This is <span className=' text-xl'>shahanur islam siam</span></p>
         <p>InshaAllah I will</p>
+        <p>copy rignt @2024</p>
       </div>
     </>
   );
